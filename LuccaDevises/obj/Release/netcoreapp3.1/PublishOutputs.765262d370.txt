@@ -1,0 +1,5 @@
+C:\Projets\testpub\LuccaDevises.exe
+C:\Projets\testpub\LuccaDevises.dll
+C:\Projets\testpub\LuccaDevises.deps.json
+C:\Projets\testpub\LuccaDevises.runtimeconfig.json
+C:\Projets\testpub\LuccaDevises.pdb

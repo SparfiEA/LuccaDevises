@@ -1,0 +1,14 @@
+C:\Projets\LuccaDevises\LuccaDevises\bin\Release\netcoreapp3.1\LuccaDevises.exe
+C:\Projets\LuccaDevises\LuccaDevises\bin\Release\netcoreapp3.1\LuccaDevises.deps.json
+C:\Projets\LuccaDevises\LuccaDevises\bin\Release\netcoreapp3.1\LuccaDevises.runtimeconfig.json
+C:\Projets\LuccaDevises\LuccaDevises\bin\Release\netcoreapp3.1\LuccaDevises.runtimeconfig.dev.json
+C:\Projets\LuccaDevises\LuccaDevises\bin\Release\netcoreapp3.1\LuccaDevises.dll
+C:\Projets\LuccaDevises\LuccaDevises\bin\Release\netcoreapp3.1\LuccaDevises.pdb
+C:\Projets\LuccaDevises\LuccaDevises\obj\Release\netcoreapp3.1\LuccaDevises.csproj.AssemblyReference.cache
+C:\Projets\LuccaDevises\LuccaDevises\obj\Release\netcoreapp3.1\LuccaDevises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projets\LuccaDevises\LuccaDevises\obj\Release\netcoreapp3.1\LuccaDevises.AssemblyInfoInputs.cache
+C:\Projets\LuccaDevises\LuccaDevises\obj\Release\netcoreapp3.1\LuccaDevises.AssemblyInfo.cs
+C:\Projets\LuccaDevises\LuccaDevises\obj\Release\netcoreapp3.1\LuccaDevises.csproj.CoreCompileInputs.cache
+C:\Projets\LuccaDevises\LuccaDevises\obj\Release\netcoreapp3.1\LuccaDevises.dll
+C:\Projets\LuccaDevises\LuccaDevises\obj\Release\netcoreapp3.1\LuccaDevises.pdb
+C:\Projets\LuccaDevises\LuccaDevises\obj\Release\netcoreapp3.1\LuccaDevises.genruntimeconfig.cache
